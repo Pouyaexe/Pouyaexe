@@ -3,7 +3,7 @@
 
 👋 Hello there, I'm @Pouyaexe!
 
-🌱 I'm passionate about **Machine Learning**,** Deep Learning**, and all things **programming**. Whether it's crafting elegant code or exploring the latest trends in AI, I'm always eager to learn and contribute.
+🌱 I'm passionate about **Machine Learning**,**Deep Learning**, and all things **programming**. Whether it's crafting elegant code or exploring the latest trends in AI, I'm always eager to learn and contribute.
 
 💡 If you're working on something exciting or need assistance, feel free to **reach out**. Let's collaborate and make technology work wonders!
 
