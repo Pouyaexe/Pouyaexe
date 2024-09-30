@@ -2,7 +2,7 @@
 
 ---
 
-## 👋 **Greetings, Meatbags!** (It's Pouya, but greetings work too)
+## 👋 **Greetings, Humans!** (It's Pouya, but greetings work too)
 
 **Machine Learning Engineer by Day, AI Overlord in Training by Night**  
 (Mostly just play video games at night, but hey, gotta keep the dream alive)
